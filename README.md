@@ -7,6 +7,6 @@ Swift brush-up, closures, structs vs classes, protocols, extensions, etc.
 #### Important UI elements:
 List, Form, Stacks, Pickers, Button, Stepper, Alert, etc.
 #### Data techniques:
-Bindings and State Variables
+Bindings and State Variables, ForEach loop
 #### Add. Techniques:
 CreateML and CoreML, File Handling
