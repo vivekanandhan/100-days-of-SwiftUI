@@ -5,7 +5,7 @@
 #### Concepts:
 Swift brush-up, closures, structs vs classes, protocols, extensions, etc.
 #### Important UI elements:
-List, Form, Stacks, Pickers, Button, Stepper, Alert, etc.
+List, Form, Stacks, Pickers, Button, Stepper, Alert, Animations, etc.
 #### Data techniques:
 Bindings and State Variables, ForEach loop
 #### Add. Techniques:
